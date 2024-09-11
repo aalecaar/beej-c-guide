@@ -46,5 +46,5 @@ int main(void) {
   hello_copy[0] = 'J';
   printf("Original: %s\nCopy: %s\n", hello, hello_copy); // The original string is not changed!
 
-return 1;
+return 0;
 }

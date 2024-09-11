@@ -113,5 +113,6 @@ int main(void) {
     };
 
     print_2D_array(x); // In the case of passing multi dimensional arrays to functions, you need to specify the size of every dimension, except for the first one.
-  return 1;
+  
+  return 0;
 }

@@ -17,4 +17,6 @@ int main(void) {
   printf("After adding 1, i is now %d\n", increment(ptr_to_i));
 
   int *foo, bar; // In this case, only foo is a pointer, bar isn't.
+  
+  return 0;
 }
